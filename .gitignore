@@ -4,3 +4,5 @@ vendor/bundle
 Gemfile.lock
 pkg
 *~
+.rvmrc
+tags
